@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 import json
 
-token = "NTE0MjYwNjU1NTg3NDU5MDc0.DtUCaw.MiRNQEm5QDflZ3FarlbNlVMXT5U"
+token = ""
 
 extensions = ["ctf", "solve", "admin"]
 
