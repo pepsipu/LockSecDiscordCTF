@@ -55,7 +55,7 @@ async def ctf2_done(users, user):
 async def on_ready():
 	await client.change_presence(game=discord.Game(name="Run ./ctf help for help."))
 	print("LockSec Server starting...\n")
-	print("By Sammy Hajhamid / pepsipu#2655\n")
+	print("By Sammy Hajhamid / pepsipu#3655\n")
 	print("pepsipu.com\n")
 
 @client.event
